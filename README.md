@@ -1,7 +1,7 @@
 # Data Engineering  Project
 ## Project Summary
 
-To building an ETL-Pipeline with Spark I loaded a ny-crime dataset from the OpenData Platform of NY and processed
+To building an ETL-Pipeline with Spark loaded a ny crime dataset from the OpenData Platform of NY and processed
  it together with weather and airbnb data from Kaggle.
  The data gets transformed into an relational data model and passed to an postgreSQL database.
  
@@ -15,7 +15,7 @@ To building an ETL-Pipeline with Spark I loaded a ny-crime dataset from the Open
 * **[aws.cfg](aws.cfg)**: File for aws credentials.
 
 
-If the notebooks doesn't get loaded you can use the nbviewer from jupyter: https://nbviewer.jupyter.org/
+https://nbviewer.jupyter.org/
 
 # The database schema design.
 
